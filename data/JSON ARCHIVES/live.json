@@ -1,0 +1,241 @@
+{
+  "rows" : [
+    {
+      "row_number" : 1,
+      "color" : "0.8125,0.5505,0.1219",
+      "uuid_row" : "5275BA2C-B231-470F-A7BC-9CC8EEBC0F9B-6077-000000AE08E40D83",
+      "clips" : [
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "link",
+                "uuid" : "180496275765447840",
+                "color" : "1.0,1.0,1.0",
+                "name" : "LinkIDLOC",
+                "time" : 4.8489013700000001
+              },
+              {
+                "color" : "0.84,0.67,0.4",
+                "time" : 4.8489013700000001,
+                "name" : "Peñarol Rugby",
+                "category" : "EQ NAME",
+                "uuid" : "180496275765449600"
+              },
+              {
+                "time" : 4.8489013700000001,
+                "name" : "22",
+                "category" : "EQ ID",
+                "uuid" : "180496275765450304",
+                "color" : "0.84,0.67,0.4"
+              },
+              {
+                "uuid" : "180496277579561920",
+                "color" : "0.57,0.56,0.91",
+                "time" : 6.6749273699999998,
+                "category" : "PLAYER NAME",
+                "name" : "Faccennini  Emiliano "
+              },
+              {
+                "time" : 6.6749273699999998,
+                "color" : "0.57,0.56,0.91",
+                "category" : "PLAYER ID",
+                "uuid" : "180496277579563168",
+                "name" : "1306"
+              },
+              {
+                "name" : "TRY",
+                "uuid" : "180496278463216224",
+                "time" : 6.6749273699999998,
+                "color" : "0.5172,0.5172,0.5172",
+                "category" : "TANTOS"
+              }
+            ]
+          },
+          "uuid" : "180496275595013824",
+          "time_start" : -5.1510986299999999,
+          "time_end" : 7.6914616699999998,
+          "color" : "0.8125,0.5505,0.1219"
+        }
+      ],
+      "height" : 20,
+      "row_name" : "TRY",
+      "height_real" : 20
+    },
+    {
+      "row_name" : "#16",
+      "height" : 20,
+      "uuid_row" : "5368C8D9-E863-4270-8AC3-2E11404BF02A-6077-000000AE0B80AE6A",
+      "height_real" : 20,
+      "clips" : [
+        {
+          "time_start" : 2.6749273699999998,
+          "uuid" : "180496277430297152",
+          "time_end" : 11.70899567,
+          "color" : "0.84,0.67,0.4",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.57,0.56,0.91",
+                "category" : "PLAYER NAME",
+                "time" : 6.6749273699999998,
+                "uuid" : "180496277579564512",
+                "name" : "Faccennini  Emiliano "
+              },
+              {
+                "time" : 6.6749273699999998,
+                "category" : "PLAYER ID",
+                "name" : "1306",
+                "color" : "0.57,0.56,0.91",
+                "uuid" : "180496277579565152"
+              },
+              {
+                "color" : "0.84,0.67,0.4",
+                "uuid" : "180496277579565792",
+                "time" : 6.6749273699999998,
+                "name" : "Peñarol Rugby",
+                "category" : "EQ NAME"
+              },
+              {
+                "uuid" : "180496277579566624",
+                "name" : "22",
+                "category" : "EQ ID",
+                "color" : "0.84,0.67,0.4",
+                "time" : 6.6749273699999998
+              },
+              {
+                "time" : 7.6914616699999998,
+                "name" : "TRY",
+                "category" : "TANTOS",
+                "uuid" : "180496278463231616",
+                "color" : "0.5172,0.5172,0.5172"
+              }
+            ]
+          }
+        }
+      ],
+      "row_number" : 2,
+      "color" : "0.84,0.67,0.4"
+    },
+    {
+      "height" : 20,
+      "uuid_row" : "5CFF45C1-6C76-4955-AFAD-D3E6A953EF4A-6077-000000AE148FF837",
+      "row_name" : "GOAL",
+      "clips" : [
+        {
+          "time_end" : 20.399876249999998,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "1.0,1.0,1.0",
+                "category" : "link",
+                "time" : 13.008197790000001,
+                "name" : "LinkIDLOC",
+                "uuid" : "180496283927856192"
+              },
+              {
+                "name" : "Peñarol Rugby",
+                "uuid" : "180496283927859328",
+                "color" : "0.84,0.67,0.4",
+                "time" : 13.008197790000001,
+                "category" : "EQ NAME"
+              },
+              {
+                "time" : 13.008197790000001,
+                "uuid" : "180496283927859968",
+                "color" : "0.84,0.67,0.4",
+                "name" : "22",
+                "category" : "EQ ID"
+              },
+              {
+                "time" : 14.84974175,
+                "uuid" : "180496285786166912",
+                "color" : "0.57,0.56,0.91",
+                "name" : "Ardao Manuel",
+                "category" : "PLAYER NAME"
+              },
+              {
+                "uuid" : "180496285786168352",
+                "time" : 14.84974175,
+                "category" : "PLAYER ID",
+                "name" : "1309",
+                "color" : "0.57,0.56,0.91"
+              },
+              {
+                "color" : "0.5172,0.5172,0.5172",
+                "time" : 14.84974175,
+                "uuid" : "180496285786169248",
+                "name" : "GOAL",
+                "category" : "TANTOS"
+              }
+            ]
+          },
+          "time_start" : 10.008197790000001,
+          "color" : "0.8125,0.5505,0.1219",
+          "uuid" : "180496283756398528"
+        }
+      ],
+      "height_real" : 20,
+      "color" : "0.8125,0.5505,0.1219",
+      "row_number" : 3
+    },
+    {
+      "height" : 19.999999999999996,
+      "color" : "0.84,0.67,0.4",
+      "height_real" : 20,
+      "clips" : [
+        {
+          "time_start" : 10.84974175,
+          "uuid" : "180496285632327072",
+          "time_end" : 24.399876249999998,
+          "color" : "0.84,0.67,0.4",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "Ardao Manuel",
+                "uuid" : "180496285786170880",
+                "color" : "0.57,0.56,0.91",
+                "category" : "PLAYER NAME",
+                "time" : 14.84974175
+              },
+              {
+                "color" : "0.57,0.56,0.91",
+                "name" : "1309",
+                "category" : "PLAYER ID",
+                "uuid" : "180496285786171904",
+                "time" : 14.84974175
+              },
+              {
+                "category" : "EQ NAME",
+                "time" : 14.84974175,
+                "uuid" : "180496285786173088",
+                "color" : "0.84,0.67,0.4",
+                "name" : "Peñarol Rugby"
+              },
+              {
+                "time" : 14.84974175,
+                "uuid" : "180496285786174176",
+                "name" : "22",
+                "category" : "EQ ID",
+                "color" : "0.84,0.67,0.4"
+              },
+              {
+                "name" : "GOAL",
+                "category" : "TANTOS",
+                "color" : "0.5172,0.5172,0.5172",
+                "uuid" : "180496285786175072",
+                "time" : 14.84974175
+              }
+            ]
+          }
+        }
+      ],
+      "row_number" : 4,
+      "uuid_row" : "C4E04B0C-1993-401F-BED4-4967A5D395BD-6077-000000AE1732501B",
+      "row_name" : "#8"
+    }
+  ],
+  "description" : "PRL@COB",
+  "row_count" : 4,
+  "uuid_timeline" : "ED3D8497-5BB4-4D6A-AA96-C71F9FA29028-6077-00000097215F1DF6-[A]-180492176662553568"
+}

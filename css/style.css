@@ -1,0 +1,16 @@
+h3 {
+  text-align: center;
+  vertical-align: text-center;
+}
+
+.titulo {
+  background: #222222 !important;
+}
+
+.row {
+  margin-bottom: 10px !important;
+}
+
+#localLogo, #visLogo {
+margin-top: 20px !important; ;
+}

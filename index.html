@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+	<link type="text/css" rel="stylesheet" href="css/style.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+
+	<title>Angles TV Stats</title>
+<style>
+
+@font-face{
+    font-family: DiamaEFBOL;
+    src: url(fonts/DiamanteEF\ Bold.otf);
+    font-weight: bold;
+  }
+@font-face{
+    font-family: DiamaEFREG;
+    src: url(fonts/DiamanteEF\ Regular.otf);
+    font-weight: bold;
+  }
+
+h3{
+  font-family: DiamaEFBOL;
+}
+div{
+	font-family:DiamaEFREG;
+}
+
+
+#scoreLoc{
+	padding: 10px;
+	border: 3px solid grey;
+}
+#scoreVis{
+	padding: 10px;
+	border: 3px solid grey;
+}
+#localLogo, #visLogo {
+margin-top: 20px !important; ;
+}
+
+.team{
+	font-size: 2.2em;
+}
+.penales {
+	color: white;
+}
+.primer {
+	font-size:0.7em
+}
+
+.row {
+  margin-bottom: 10px !important;
+}
+
+</style>
+
+</head>
+
+<body class="grey darken-3">	
+			<section>
+				<div class="container">
+					<div class="row black">
+				        <div class="col s3 m2 l2 xl2">
+				        	<img id="localLogo" src="logos/S_Americas.png" class="scoreLoc responsive-img center-align ">
+				    	</div>
+				        <!-- <div class="col s6 m6 l6 x6"> -->
+					   	<h3 id="scoreLoc" class="col s3 m4 l4 xl4 white-text center"></h3>
+						<h3 id="scoreVis" class="col s3 m4 l4 xl4 white-text center"></h3>
+				        <!-- </div> -->
+				    	<div class="col s3 m2 l2 xl2 right">
+				    		<img id="visLogo" src="logos/S_Americas.png" class="scoreVis responsive-img center-align ">
+						</div>
+					</div> 
+				</div>
+			</section>
+
+	<!-- Section BARS -->
+	<section class="section-bar section">
+		<div class="row">
+			<div class="container">	
+				<div class = "col s5 m5 l5 grey darken-3 ">
+					<div class="team white-text center" id="localName"></div>
+				</div>
+			<div class = "col s2 m2 l2 grey darken-3 center-align ">
+				<img id="slar" src="logos/S_Americas.png" class=" scoreLoc responsive-img ">
+			</div>
+				<div class = "col s5 m3 l3 grey left darken-3">
+					<div class="team white-text center" id="visName"></div> 
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+			    <div class = "col s6 m6 l6 grey darken-3 ">
+	        		<div class="grey darken-3" id="canvas04"></div>
+	        		<div class="grey darken-3" id="canvas05"></div>
+	        	</div>
+	        	<div class = "col s6 m6 l6 grey darken-3">
+	        		<div class="grey darken-3" id="canvas06"></div>
+	        		<div class="grey darken-3" id="canvas07"></div> 
+				 </div>
+			</div>
+		</div>
+<div style="margin-bottom: 30px;">
+
+</div>
+	<!-- TRIES ->
+	<!-- Esto es parte del primer Tiempo-->
+				<div class="row container">
+					<!-- <div class="col s12 m12 l12 grey">
+						<div id='try1TLoc' class='col primer s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center primer blue lighten-3'>1 Tiempo</div>
+						<div id='try1TVis' class='col primer s2 m2 l2 center'>0</div>
+					</div> -->
+						<div class="col s12 m12 l12 grey">
+							<div id='tryLoc' class='col s2 m2 l2 center'>0</div>
+							<div class='col s8 m8 l8 center blue lighten-3'>TRIES</div>
+							<div id='tryVis' class='col s2 m2 l2 center'>0</div>
+						</div>	
+				</div>
+				<div class="row container">
+						<div class="col s12 m12 l12 grey">
+							<div id='goalLoc' class='col s3 m2 l2 center'>0</div>
+							<div class='col s6 m8 l8 center blue lighten-3'>CONVERSIONES</div>
+							<div id='goalVis' class='col s3 m2 l2 center'>0</div>
+						</div>	
+				</div>
+	<!-- ROW PENALES A LOS PALOS -->
+				<div class="row container">
+						<div class="col s12 m12 l12 grey">
+							<div id='penLoc' class='col s3 m2 l2 center'>0</div>
+							<div class='col s6 m8 l8 center blue lighten-2'>PENALES A LOS PALOS</div>
+							<div id='penVis' class='col s3 m2 l2 center'>0</div>
+						</div>	
+				</div>
+    <!-- PENALES COMETIDOS -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='penaltyConceededLoc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center blue lighten-2'>PENALES COMETIDOS</div>
+						<div id='penaltyConceededVis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	 <!-- CLEAN BREAKS -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='cleanBreakLoc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center blue lighten-1'>CLEAN BREAKS</div>
+						<div id='cleanBreakVis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	 <!-- TORNOVERS -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='turnoverLoc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center blue lighten-1'>TURNOVERS</div>
+						<div id='turnoverVis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	<!-- OFFLOADS -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='offloadLoc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center blue lighten-1'>OFFLOADS</div>
+						<div id='offloadVis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	<!-- ENTRADA 22 M -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='entrada22Loc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center penales blue darken-2'>ENTRADA A 22M</div>
+						<div id='entrada22Vis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	<!-- ERRORES -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='lostLoc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center penales blue darken-3'>ERRORES DE MANEJO</div>
+						<div id='lostVis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	<!-- AMARILLAS -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='amaLoc' class='col s2 m2 l2 center'>0</div>
+						<div class='col s8 m8 l8 center yellow'>TARJETAS AMARILLAS</div>
+						<div id='amaVis' class='col s2 m2 l2 center'>0</div>
+					</div>	
+				</div>
+	<!-- ROJA -->
+				<div class="row container">
+					<div class="col s12 m12 l12 grey">
+						<div id='rojLoc' class='col s2 m2 l2 center '>0</div>
+						<div class='col s8 m8 l8 penales center red'>TARJETAS ROJAS</div>
+						<div id='rojVis' class='col s2 m2 l2 center '>0</div>
+					</div>	
+				</div>
+	<!-- Team Tackles -->
+		<div class="row container">
+			<div class="col s12 m12 l12 grey">
+				<div id='TackLoc' class='col s2 m2 l2 center '>0</div>
+				<div class='col s8 m8 l8 penales center green darken-3'>TACKLES</div>
+				<div id='TackVis' class='col s2 m2 l2 center '>0</div>
+			</div>	
+		</div>
+			</div>
+
+	</section>
+
+	  <!-- ----------------------------------------------------------- -->
+
+
+
+	<script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/d3.min.js"></script>
+    <script type="text/javascript" src="js/d3-legend.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="graph.js"></script>
+	<script type="text/javascript" src="graph-1t.js"></script>
+
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+      $('.dropdown-button').dropdown({
+        constrainWidth: false,
+        hover: true,
+        belowOrigin: true,
+        alignment: 'left'
+      });
+
+      // JAVASCRIPT START HERE //
+    $('.button-collapse').sideNav();
+
+
+
+    });
+  </script>
+ 	</script>
+</body>
+</html>

@@ -1,0 +1,1907 @@
+{
+  "data_version" : 2,
+  "description" : "P01-DGS@YCR",
+  "row_count" : 18,
+  "rows" : [
+    {
+      "row_number" : 1,
+      "row_name" : "KO",
+      "clips" : [
+        {
+          "time_start" : 0.13438982999999999,
+          "uuid" : "209870678049174720",
+          "time_end" : 10.13438983,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870678049182400",
+                "name" : "04-DGS",
+                "category" : "EQ NAME",
+                "time" : 2.1343898299999999
+              }
+            ]
+          }
+        }
+      ],
+      "height_real" : 20,
+      "uuid_row" : "F1C343C0-0DBB-4EED-B98C-EA90A8DEC5D9-42312-0000038F87E7D79C",
+      "height" : 20,
+      "color" : "0.6133,0.0164,0.0164"
+    },
+    {
+      "uuid_row" : "5FC22B36-8D5E-4F8F-B9AB-FAB22211484A-42312-0000038F87E90051",
+      "height_real" : 20,
+      "row_name" : "RESTART",
+      "height" : 20,
+      "clips" : [
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 8.0097780400000005,
+          "uuid" : "209870678049180544",
+          "time_start" : -0.86561016999999996,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 2.1343898299999999,
+                "category" : "EQ NAME",
+                "uuid" : "209870678049183360",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "04-DGS"
+              },
+              {
+                "color" : "1.0,1.0,1.0",
+                "time" : 5.0019624599999997,
+                "name" : "PERDIDO",
+                "category" : "RESULTADO",
+                "uuid" : "209870680961236608"
+              }
+            ]
+          }
+        },
+        {
+          "time_start" : 218.80000000000001,
+          "uuid" : "209870810532543168",
+          "time_end" : 229.56,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870810532626272",
+                "name" : "04-DGS",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 221.80000000000001,
+                "category" : "EQ NAME"
+              },
+              {
+                "name" : "PERDIDO",
+                "uuid" : "209870811791657344",
+                "color" : "1.0,1.0,1.0",
+                "time" : 227.08000000000001,
+                "category" : "RESULTADO"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164"
+        },
+        {
+          "color" : "0.6133,0.0164,0.3819",
+          "uuid" : "209870847582448768",
+          "time_end" : 381.07999999999998,
+          "time_start" : 365.51999999999998,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "uuid" : "209870847670780800",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 368.51999999999998,
+                "name" : "07-YCR"
+              },
+              {
+                "name" : "PERDIDO",
+                "time" : 378.60000000000002,
+                "uuid" : "209870850050579808",
+                "color" : "1.0,1.0,1.0",
+                "category" : "RESULTADO"
+              }
+            ]
+          }
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "time" : 666.35833333000005,
+                "name" : "07-YCR",
+                "color" : "0.6133,0.0164,0.3819",
+                "uuid" : "209870923128976288"
+              },
+              {
+                "uuid" : "209870924634260192",
+                "name" : "PERDIDO",
+                "category" : "RESULTADO",
+                "color" : "1.0,1.0,1.0",
+                "time" : 672.57500000000005
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.3819",
+          "uuid" : "209870923070259456",
+          "time_end" : 675.05333332999999,
+          "time_start" : 663.35833333000005
+        }
+      ],
+      "row_number" : 2,
+      "color" : "0.6133,0.0164,0.3819"
+    },
+    {
+      "row_number" : 3,
+      "height" : 20,
+      "clips" : [
+        {
+          "time_start" : 11.676439500000001,
+          "time_end" : 18.676439500000001,
+          "uuid" : "209870692532554528",
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "time" : 16.676439500000001,
+                "uuid" : "209870692611061152",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "04-DGS"
+              },
+              {
+                "time" : 16.676439500000001,
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "uuid" : "209870693486283680",
+                "color" : "0.6133,0.0164,0.0164"
+              }
+            ]
+          }
+        },
+        {
+          "uuid" : "209870696386902496",
+          "time_start" : 15.52648583,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "uuid" : "209870696444437440",
+                "category" : "EQ NAME",
+                "time" : 20.526485829999999,
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "time" : 20.526485829999999,
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "TACKLE MADE",
+                "uuid" : "209870697344632224",
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "time_end" : 22.526485829999999
+        },
+        {
+          "time_end" : 25.763055560000002,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "time" : 23.763055560000002,
+                "category" : "EQ NAME",
+                "uuid" : "209870702031201024",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "category" : "ACTION",
+                "time" : 23.763055560000002,
+                "name" : "TACKLE MADE",
+                "uuid" : "209870702962856576",
+                "color" : "0.6133,0.0164,0.0164"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "uuid" : "209870701979105440",
+          "time_start" : 18.763055560000002
+        },
+        {
+          "time_start" : 31.991063230000002,
+          "uuid" : "209870718348644032",
+          "time_end" : 38.991063230000002,
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870718408484832",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 36.991063230000002,
+                "name" : "07-YCR",
+                "category" : "EQ NAME"
+              },
+              {
+                "time" : 36.991063230000002,
+                "color" : "0.6133,0.0164,0.3819",
+                "uuid" : "209870719311926112",
+                "category" : "ACTION",
+                "name" : "TACKLE MADE"
+              }
+            ]
+          }
+        },
+        {
+          "color" : "0.6133,0.0164,0.3819",
+          "uuid" : "209870722805243616",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "07-YCR",
+                "uuid" : "209870722906314656",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "time" : 41.450996850000003
+              },
+              {
+                "category" : "ACTION",
+                "uuid" : "209870723768751424",
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "TACKLE MADE",
+                "time" : 41.450996850000003
+              }
+            ]
+          },
+          "time_end" : 43.450996850000003,
+          "time_start" : 36.450996850000003
+        },
+        {
+          "time_start" : 40.38212523,
+          "time_end" : 47.38212523,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870726832199200",
+                "time" : 45.38212523,
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "name" : "07-YCR"
+              },
+              {
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 45.38212523,
+                "uuid" : "209870727700162752",
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "uuid" : "209870726738332128",
+          "color" : "0.6133,0.0164,0.3819"
+        },
+        {
+          "uuid" : "209870770172425888",
+          "time_start" : 83.823456930000006,
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "07-YCR",
+                "time" : 88.823456930000006,
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "uuid" : "209870770214046944"
+              },
+              {
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "time" : 88.823456930000006,
+                "uuid" : "209870771137004864",
+                "color" : "0.6133,0.0164,0.3819"
+              }
+            ]
+          },
+          "time_end" : 90.823456930000006
+        },
+        {
+          "uuid" : "209870774942454368",
+          "time_end" : 95.616170139999994,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 93.616170139999994,
+                "name" : "07-YCR",
+                "uuid" : "209870775015691840"
+              },
+              {
+                "time" : 93.616170139999994,
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.3819",
+                "uuid" : "209870775937064224"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.3819",
+          "time_start" : 88.616170139999994
+        },
+        {
+          "time_end" : 115.72,
+          "time_start" : 108.72,
+          "uuid" : "209870782938217536",
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "uuid" : "209870782938218688",
+                "time" : 113.72,
+                "name" : "07-YCR",
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "uuid" : "209870783870448224",
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 113.72,
+                "name" : "TACKLE MADE"
+              }
+            ]
+          }
+        },
+        {
+          "time_start" : 116.08,
+          "time_end" : 123.08,
+          "uuid" : "209870784839542816",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "07-YCR",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "uuid" : "209870784904311040",
+                "time" : 121.08
+              },
+              {
+                "time" : 121.08,
+                "uuid" : "209870785800630368",
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "TACKLE MADE",
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.3819"
+        },
+        {
+          "uuid" : "209870814783336064",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870814817876928",
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "time" : 238.75999999999999,
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "category" : "ACTION",
+                "uuid" : "209870815740927104",
+                "time" : 238.75999999999999,
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.0164"
+              }
+            ]
+          },
+          "time_start" : 233.75999999999999,
+          "time_end" : 240.75999999999999,
+          "color" : "0.6133,0.0164,0.0164"
+        },
+        {
+          "time_start" : 241.28,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870816774064512",
+                "time" : 246.28,
+                "name" : "04-DGS",
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "time" : 246.28,
+                "uuid" : "209870817681010816"
+              }
+            ]
+          },
+          "uuid" : "209870816724154240",
+          "time_end" : 248.28,
+          "color" : "0.6133,0.0164,0.0164"
+        },
+        {
+          "time_start" : 252.80000000000001,
+          "uuid" : "209870819615518976",
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870819647679744",
+                "time" : 257.80000000000001,
+                "category" : "EQ NAME",
+                "name" : "04-DGS"
+              },
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "time" : 257.80000000000001,
+                "name" : "TACKLE MADE",
+                "uuid" : "209870820570618176"
+              }
+            ]
+          },
+          "time_end" : 259.80000000000001
+        },
+        {
+          "uuid" : "209870822440075904",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "time" : 269.16000000000003,
+                "uuid" : "209870822505360288"
+              },
+              {
+                "uuid" : "209870823403005472",
+                "time" : 269.16000000000003,
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "TACKLE MADE"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "time_start" : 264.16000000000003,
+          "time_end" : 271.16000000000003
+        },
+        {
+          "time_end" : 280.44,
+          "time_start" : 273.44,
+          "uuid" : "209870824884313856",
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "MISSED TACKLE",
+                "uuid" : "209870824994614048",
+                "category" : "ACTION",
+                "time" : 275.24000000000001,
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "time" : 278.44,
+                "name" : "04-DGS",
+                "category" : "EQ NAME",
+                "uuid" : "209870824994615136",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "time" : 278.44,
+                "uuid" : "209870825841053248"
+              }
+            ]
+          }
+        },
+        {
+          "uuid" : "209870852162280672",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "07-YCR",
+                "time" : 386.75999999999999,
+                "uuid" : "209870852200331328",
+                "category" : "EQ NAME"
+              },
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 386.75999999999999,
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "uuid" : "209870853124547392"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.3819",
+          "time_start" : 381.75999999999999,
+          "time_end" : 388.75999999999999
+        },
+        {
+          "time_end" : 397.88,
+          "color" : "0.6133,0.0164,0.3819",
+          "time_start" : 390.88,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 395.88,
+                "uuid" : "209870854533570272",
+                "name" : "07-YCR",
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "category" : "ACTION",
+                "uuid" : "209870855458792064",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 395.88,
+                "name" : "TACKLE MADE"
+              }
+            ]
+          },
+          "uuid" : "209870854493289664"
+        },
+        {
+          "uuid" : "209870867305296352",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 446.60000000000002,
+                "name" : "04-DGS",
+                "uuid" : "209870867305298240",
+                "category" : "EQ NAME"
+              },
+              {
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 446.60000000000002,
+                "uuid" : "209870868228645984"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 448.60000000000002,
+          "time_start" : 441.60000000000002
+        },
+        {
+          "time_start" : 447.19999999999999,
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 454.19999999999999,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "uuid" : "209870868772623264",
+                "time" : 452.19999999999999
+              },
+              {
+                "uuid" : "209870869670395776",
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 452.19999999999999,
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "uuid" : "209870868714210272"
+        },
+        {
+          "time_start" : 476.48000000000002,
+          "time_end" : 483.48000000000002,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 481.48000000000002,
+                "uuid" : "209870876189285024",
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870877107918016",
+                "category" : "ACTION",
+                "time" : 481.48000000000002
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "uuid" : "209870876155302688"
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 487.39999999999998,
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "uuid" : "209870877765113440"
+              },
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "TACKLE MADE",
+                "time" : 487.39999999999998,
+                "category" : "ACTION",
+                "uuid" : "209870878645859712"
+              }
+            ]
+          },
+          "time_end" : 489.39999999999998,
+          "uuid" : "209870877691987296",
+          "time_start" : 482.39999999999998,
+          "color" : "0.6133,0.0164,0.0164"
+        },
+        {
+          "time_start" : 490.07999999999998,
+          "uuid" : "209870879653858560",
+          "time_end" : 497.07999999999998,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 495.07999999999998,
+                "category" : "EQ NAME",
+                "uuid" : "209870879741762592",
+                "name" : "04-DGS"
+              },
+              {
+                "time" : 495.07999999999998,
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "uuid" : "209870880643068640"
+              }
+            ]
+          }
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870881472310560",
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "time" : 502.12,
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "name" : "TACKLE MADE",
+                "uuid" : "209870882387118944",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 502.12,
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 504.12,
+          "uuid" : "209870881432063008",
+          "time_start" : 497.12
+        },
+        {
+          "uuid" : "209870892201820608",
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 544.55999999999995,
+                "uuid" : "209870892264038944",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "04-DGS",
+                "category" : "EQ NAME"
+              }
+            ]
+          },
+          "time_end" : 546.55999999999995,
+          "time_start" : 539.55999999999995
+        },
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "uuid" : "209870906739799840",
+                "name" : "04-DGS",
+                "time" : 601.79333333
+              },
+              {
+                "name" : "TACKLE MADE",
+                "uuid" : "209870907671012192",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 601.79333333,
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "time_end" : 603.79333333,
+          "uuid" : "209870906684630080",
+          "time_start" : 596.79333333
+        },
+        {
+          "time_start" : 604.12666666999996,
+          "uuid" : "209870908621851648",
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870908621853024",
+                "category" : "EQ NAME",
+                "time" : 609.12666666999996,
+                "name" : "04-DGS",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "name" : "TACKLE MADE",
+                "category" : "ACTION",
+                "time" : 609.12666666999996,
+                "uuid" : "209870909543378688",
+                "color" : "0.6133,0.0164,0.0164"
+              }
+            ]
+          },
+          "time_end" : 611.12666666999996
+        },
+        {
+          "time_start" : 611.29999999999995,
+          "uuid" : "209870910448738592",
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 618.29999999999995,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 616.29999999999995,
+                "name" : "04-DGS",
+                "uuid" : "209870910493498784",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME"
+              }
+            ]
+          }
+        }
+      ],
+      "height_real" : 20,
+      "uuid_row" : "ECBFBABF-726E-4F69-8D1B-D0E6E2C95A9A-42312-0000038F9CB543E7",
+      "color" : "0.6133,0.0164,0.0164",
+      "row_name" : "TACKLE MADE"
+    },
+    {
+      "color" : "0.6133,0.0164,0.0164",
+      "uuid_row" : "9417F942-7EAA-4519-A7D2-38998D27451F-42312-0000038FB341C072",
+      "height" : 20,
+      "row_number" : 4,
+      "row_name" : "MISSED TACKLE",
+      "clips" : [
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "uuid" : "209870708315207488",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 26.924016519999999,
+                "category" : "EQ NAME"
+              },
+              {
+                "uuid" : "209870709248819968",
+                "category" : "ACTION",
+                "time" : 26.924016519999999,
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "MISSED TACKLE"
+              }
+            ]
+          },
+          "time_end" : 28.924016519999999,
+          "uuid" : "209870708315203936",
+          "color" : "0.6133,0.0164,0.0164",
+          "time_start" : 21.924016519999999
+        },
+        {
+          "time_start" : 44.765590099999997,
+          "uuid" : "209870731114437728",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 49.765590099999997,
+                "name" : "07-YCR",
+                "category" : "EQ NAME",
+                "uuid" : "209870731148492928",
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "uuid" : "209870732079289344",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 49.765590099999997,
+                "category" : "ACTION",
+                "name" : "MISSED TACKLE"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.3819",
+          "time_end" : 51.765590099999997
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 132.10833332999999,
+                "uuid" : "209870787682481760",
+                "name" : "07-YCR"
+              },
+              {
+                "category" : "ACTION",
+                "name" : "MISSED TACKLE",
+                "time" : 132.10833332999999,
+                "uuid" : "209870788560755008",
+                "color" : "0.6133,0.0164,0.3819"
+              }
+            ]
+          },
+          "time_end" : 134.10833332999999,
+          "uuid" : "209870787597547872",
+          "color" : "0.6133,0.0164,0.3819",
+          "time_start" : 127.10833332999999
+        },
+        {
+          "time_start" : 270.24000000000001,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "time" : 275.24000000000001,
+                "uuid" : "209870824072375328",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "04-DGS"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "uuid" : "209870824032634336",
+          "time_end" : 277.24000000000001
+        },
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "TACKLE MADE",
+                "uuid" : "209870893243012192",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "time" : 544.55999999999995
+              },
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "time" : 548.22833333000005,
+                "name" : "04-DGS",
+                "uuid" : "209870893243013248"
+              },
+              {
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 548.22833333000005,
+                "uuid" : "209870894132967680",
+                "name" : "MISSED TACKLE"
+              }
+            ]
+          },
+          "time_start" : 543.22833333000005,
+          "time_end" : 550.22833333000005,
+          "uuid" : "209870893182262496"
+        },
+        {
+          "time_start" : 548.32833332999996,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "time" : 553.32833332999996,
+                "uuid" : "209870894490919680",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME"
+              },
+              {
+                "uuid" : "209870895399373312",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 553.32833332999996,
+                "category" : "ACTION",
+                "name" : "MISSED TACKLE"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 555.32833332999996,
+          "uuid" : "209870894437603968"
+        },
+        {
+          "time_end" : 621.32833332999996,
+          "color" : "0.6133,0.0164,0.0164",
+          "time_start" : 614.32833332999996,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "uuid" : "209870911354990176",
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 619.32833332999996
+              },
+              {
+                "time" : 616.29999999999995,
+                "uuid" : "209870911399722016",
+                "category" : "ACTION",
+                "name" : "TACKLE MADE",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870912173655648",
+                "name" : "MISSED TACKLE",
+                "time" : 619.32833332999996
+              }
+            ]
+          },
+          "uuid" : "209870911213712256"
+        },
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 625.79333333,
+          "uuid" : "209870912315540608",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870912383032224",
+                "category" : "EQ NAME",
+                "time" : 623.79333333,
+                "name" : "04-DGS"
+              },
+              {
+                "name" : "MISSED TACKLE",
+                "time" : 623.79333333,
+                "category" : "ACTION",
+                "uuid" : "209870913267396032",
+                "color" : "0.6133,0.0164,0.0164"
+              }
+            ]
+          },
+          "time_start" : 618.79333333
+        }
+      ],
+      "height_real" : 20
+    },
+    {
+      "row_number" : 5,
+      "uuid_row" : "3440B914-855E-4DCA-8851-C4C23E63DEC3-42312-0000038FBBB36976",
+      "clips" : [
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "uuid" : "209870714248770240",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "04-DGS",
+                "time" : 32.833832770000001
+              },
+              {
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "TO BALL",
+                "time" : 32.833832770000001,
+                "uuid" : "209870715153581152"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "time_start" : 26.833832770000001,
+          "uuid" : "209870714198612480",
+          "time_end" : 34.833832770000001
+        },
+        {
+          "color" : "0.6133,0.0164,0.3819",
+          "time_start" : 133.76833332999999,
+          "time_end" : 141.76833332999999,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870789569838304",
+                "category" : "EQ NAME",
+                "time" : 139.76833332999999,
+                "name" : "07-YCR",
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "name" : "TO BALL",
+                "uuid" : "209870790501237696",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "ACTION",
+                "time" : 139.76833332999999
+              }
+            ]
+          },
+          "uuid" : "209870789569837376"
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "uuid" : "209870829265794080",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 295.72000000000003,
+                "category" : "EQ NAME"
+              },
+              {
+                "time" : 295.72000000000003,
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "TO BALL",
+                "uuid" : "209870830182696832",
+                "category" : "ACTION"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164",
+          "uuid" : "209870829229907872",
+          "time_end" : 297.72000000000003,
+          "time_start" : 289.72000000000003
+        }
+      ],
+      "row_name" : "TURNOVER",
+      "color" : "0.6133,0.0164,0.0164",
+      "height" : 20,
+      "height_real" : 20
+    },
+    {
+      "height" : 20,
+      "uuid_row" : "12D051EF-4174-4239-8F86-E482CC0FEFC0-42312-0000038FE04039F6",
+      "row_number" : 6,
+      "row_name" : "PENALTY CONCEEDED",
+      "clips" : [
+        {
+          "uuid" : "209870739768489888",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "name" : "07-YCR",
+                "time" : 58.382737980000002,
+                "color" : "0.6133,0.0164,0.3819",
+                "uuid" : "209870739768491904"
+              },
+              {
+                "category" : "ACTION",
+                "uuid" : "209870740704265856",
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "PENALTY CONCEEDED",
+                "time" : 58.382737980000002
+              }
+            ]
+          },
+          "time_start" : 52.382737980000002,
+          "time_end" : 60.382737980000002,
+          "color" : "0.6133,0.0164,0.3819"
+        },
+        {
+          "time_start" : 700.69166667000002,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "uuid" : "209870933413563168",
+                "time" : 706.69166667000002,
+                "name" : "04-DGS"
+              },
+              {
+                "name" : "PENALTY CONCEEDED",
+                "uuid" : "209870934298799072",
+                "category" : "ACTION",
+                "time" : 706.69166667000002,
+                "color" : "0.6133,0.0164,0.0164"
+              }
+            ]
+          },
+          "time_end" : 708.69166667000002,
+          "uuid" : "209870933353119968"
+        }
+      ],
+      "height_real" : 20,
+      "color" : "0.6133,0.0164,0.0164"
+    },
+    {
+      "clips" : [
+        {
+          "time_end" : 73.174342640000006,
+          "time_start" : 62.149328019999999,
+          "uuid" : "209870748511395584",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "time" : 67.149328019999999,
+                "uuid" : "209870748578676512",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "uuid" : "209870751633012608",
+                "name" : "GANADO",
+                "color" : "1.0,1.0,1.0",
+                "time" : 70.166247429999999,
+                "category" : "RESULTADO"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.0164"
+        },
+        {
+          "time_end" : 429.07999999999998,
+          "time_start" : 412,
+          "uuid" : "209870859782890048",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "time" : 417,
+                "name" : "07-YCR",
+                "uuid" : "209870859782938560"
+              },
+              {
+                "color" : "1.0,1.0,1.0",
+                "name" : "PERDIDO",
+                "uuid" : "209870862192260864",
+                "time" : 426.60000000000002,
+                "category" : "RESULTADO"
+              }
+            ]
+          },
+          "color" : "0.6133,0.0164,0.3819"
+        },
+        {
+          "uuid" : "209870885061157824",
+          "time_start" : 511.50333332999998,
+          "time_end" : 525.83500000000004,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "uuid" : "209870885149614176",
+                "time" : 516.50333333000003,
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "04-DGS"
+              },
+              {
+                "name" : "PERDIDO",
+                "time" : 523.35833333000005,
+                "category" : "RESULTADO",
+                "color" : "1.0,1.0,1.0",
+                "uuid" : "209870886792104160"
+              }
+            ]
+          }
+        },
+        {
+          "time_end" : 596.93666667000002,
+          "time_start" : 584.19833332999997,
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 589.19833332999997,
+                "uuid" : "209870903508736000",
+                "name" : "07-YCR"
+              },
+              {
+                "category" : "RESULTADO",
+                "name" : "GANADO",
+                "uuid" : "209870904791558880",
+                "color" : "1.0,1.0,1.0",
+                "time" : 594.45833332999996
+              }
+            ]
+          },
+          "uuid" : "209870903451750528"
+        }
+      ],
+      "height" : 20,
+      "height_real" : 20,
+      "row_name" : "LINEOUT",
+      "row_number" : 7,
+      "uuid_row" : "C63E0489-70FF-48B5-874F-5511B40BDD35-42312-0000038FECCAD488",
+      "color" : "0.6133,0.0164,0.3819"
+    },
+    {
+      "height" : 20,
+      "color" : "0.6133,0.0164,0.0164",
+      "clips" : [
+        {
+          "uuid" : "209870792156847904",
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 149.97999999999999,
+                "name" : "07-YCR",
+                "uuid" : "209870792191221952",
+                "category" : "EQ NAME"
+              },
+              {
+                "time" : 149.97999999999999,
+                "category" : "ACTION",
+                "name" : "CLEAN BREAKS",
+                "uuid" : "209870793109510688",
+                "color" : "0.6133,0.0164,0.3819"
+              }
+            ]
+          },
+          "time_end" : 151.97999999999999,
+          "time_start" : 143.97999999999999
+        },
+        {
+          "time_start" : 312.12,
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 320.12,
+          "uuid" : "209870834916592256",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "time" : 318.12,
+                "category" : "EQ NAME",
+                "uuid" : "209870834971572416",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "name" : "CLEAN BREAKS",
+                "uuid" : "209870835881089120",
+                "time" : 318.12,
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION"
+              }
+            ]
+          }
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "time" : 683.73500000000001,
+                "name" : "04-DGS",
+                "uuid" : "209870927597399872",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "CLEAN BREAKS",
+                "time" : 683.73500000000001,
+                "uuid" : "209870928508977024"
+              }
+            ]
+          },
+          "time_end" : 685.73500000000001,
+          "uuid" : "209870927556838976",
+          "time_start" : 677.73500000000001,
+          "color" : "0.6133,0.0164,0.0164"
+        }
+      ],
+      "row_name" : "CLEAN BREAKS",
+      "row_number" : 8,
+      "height_real" : 20,
+      "uuid_row" : "D0D0132A-6757-4457-8E38-9303098203E6-42312-000003902B38925C"
+    },
+    {
+      "row_name" : "OFFLOAD",
+      "color" : "0.6133,0.0164,0.0164",
+      "clips" : [
+        {
+          "time_end" : 159.80000000000001,
+          "color" : "0.6133,0.0164,0.3819",
+          "uuid" : "209870794149672896",
+          "time_start" : 151.80000000000001,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "07-YCR",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 157.80000000000001,
+                "uuid" : "209870794197664032",
+                "category" : "EQ NAME"
+              },
+              {
+                "uuid" : "209870795105019808",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "ACTION",
+                "name" : "OFFLOADS",
+                "time" : 157.80000000000001
+              }
+            ]
+          }
+        },
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "uuid" : "209870833286404512",
+          "time_end" : 313.72000000000003,
+          "time_start" : 305.72000000000003,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 311.72000000000003,
+                "name" : "04-DGS",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "uuid" : "209870833286406592"
+              },
+              {
+                "time" : 311.72000000000003,
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "uuid" : "209870834220770944",
+                "name" : "OFFLOADS"
+              }
+            ]
+          }
+        }
+      ],
+      "uuid_row" : "9785D4DB-ECD1-49AA-9455-0896336AC1F7-42312-000003902E1271E8",
+      "row_number" : 9,
+      "height_real" : 20,
+      "height" : 20
+    },
+    {
+      "color" : "0.6133,0.0164,0.3819",
+      "row_number" : 10,
+      "clips" : [
+        {
+          "uuid" : "209870796245498880",
+          "time_end" : 174.71666667,
+          "time_start" : 156.09833333,
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870796326821120",
+                "name" : "07-YCR",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "time" : 166.09833333
+              },
+              {
+                "time" : 170.88499999999999,
+                "name" : "13",
+                "category" : "JERSEY",
+                "uuid" : "209870797642167264",
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "category" : "TANTOS",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 170.88499999999999,
+                "uuid" : "209870798499230528",
+                "name" : "TRY"
+              }
+            ]
+          }
+        }
+      ],
+      "row_name" : "TRY",
+      "uuid_row" : "6FDE0C39-44DF-4D81-BEF9-095D0389D605-42312-00000390311CB10E",
+      "height_real" : 20,
+      "height" : 20
+    },
+    {
+      "height" : 20,
+      "height_real" : 20,
+      "row_name" : "GOAL",
+      "uuid_row" : "A27543FC-E4CC-4518-8FF3-CD425833BBD6-42312-0000039038392A23",
+      "clips" : [
+        {
+          "time_end" : 195.62,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "time" : 185.40833333,
+                "name" : "07-YCR",
+                "uuid" : "209870801282725568"
+              },
+              {
+                "time" : 190.99333333000001,
+                "name" : "13",
+                "uuid" : "209870802790941760",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "JERSEY"
+              },
+              {
+                "name" : "GOAL",
+                "color" : "0.6133,0.0164,0.3819",
+                "uuid" : "209870803701902016",
+                "category" : "TANTOS",
+                "time" : 194.97999999999999
+              },
+              {
+                "uuid" : "209870803749403136",
+                "category" : "RESULTADO",
+                "time" : 195.13999999999999,
+                "color" : "1.0,1.0,1.0",
+                "name" : "ERRADO"
+              }
+            ]
+          },
+          "uuid" : "209870801236025024",
+          "color" : "0.6133,0.0164,0.3819",
+          "time_start" : 182.40833333
+        }
+      ],
+      "color" : "0.6133,0.0164,0.3819",
+      "row_number" : 11
+    },
+    {
+      "color" : "0.6133,0.0164,0.0164",
+      "clips" : [
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "uuid" : "209870838187476896",
+                "time" : 331.07999999999998,
+                "name" : "04-DGS"
+              },
+              {
+                "category" : "JERSEY",
+                "time" : 337.31999999999999,
+                "uuid" : "209870839849409824",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "10"
+              },
+              {
+                "time" : 341.16000000000003,
+                "name" : "DROP",
+                "category" : "TANTOS",
+                "uuid" : "209870840698233792",
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "time" : 343.72000000000003,
+                "category" : "RESULTADO",
+                "color" : "1.0,1.0,1.0",
+                "name" : "CONVERTIDO",
+                "uuid" : "209870841342299616"
+              }
+            ]
+          },
+          "time_end" : 344.19999999999999,
+          "uuid" : "209870838187475008",
+          "time_start" : 328.07999999999998
+        }
+      ],
+      "height" : 20,
+      "uuid_row" : "C241760B-FC7D-4C9C-9BEC-A3BC2BC20721-42312-000003906D068BFC",
+      "height_real" : 20,
+      "row_name" : "DROP",
+      "row_number" : 12
+    },
+    {
+      "row_name" : "SCRUM",
+      "uuid_row" : "5329FA16-6017-4559-B216-0B1CBE9BF691-42312-000003909A692D93",
+      "row_number" : 13,
+      "color" : "0.6133,0.0164,0.3819",
+      "height" : 20,
+      "height_real" : 20,
+      "clips" : [
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "EQ NAME",
+                "uuid" : "209870869925553824",
+                "name" : "07-YCR",
+                "time" : 456.68000000000001
+              },
+              {
+                "time" : 462.12,
+                "category" : "RESULTADO",
+                "uuid" : "209870871245371424",
+                "name" : "GANADO",
+                "color" : "1.0,1.0,1.0"
+              }
+            ]
+          },
+          "time_start" : 451.68000000000001,
+          "uuid" : "209870869870168032",
+          "time_end" : 464.60000000000002,
+          "color" : "0.6133,0.0164,0.3819"
+        }
+      ]
+    },
+    {
+      "row_number" : 14,
+      "color" : "0.6133,0.0164,0.0164",
+      "uuid_row" : "36B68CC6-AEE1-46A0-8E63-53AF73A00515-42312-00000390DE066421",
+      "height" : 20,
+      "row_name" : "TRY PENAL",
+      "clips" : [
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870917182600448",
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 642.92333332999999,
+                "name" : "04-DGS"
+              }
+            ]
+          },
+          "time_end" : 645.92333332999999,
+          "uuid" : "209870917119733792",
+          "time_start" : 639.92333332999999
+        },
+        {
+          "color" : "0.6133,0.0164,0.3819",
+          "uuid" : "209870966711472032",
+          "time_end" : 839.93666667000002,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870966783465856",
+                "time" : 836.93666667000002,
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "07-YCR"
+              }
+            ]
+          },
+          "time_start" : 833.93666667000002
+        },
+        {
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 854.92333332999999,
+          "uuid" : "209870970509187584",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "uuid" : "209870970567808256",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME",
+                "time" : 851.92333332999999
+              }
+            ]
+          },
+          "time_start" : 848.92333332999999
+        }
+      ],
+      "height_real" : 20
+    },
+    {
+      "color" : "0.6133,0.0164,0.3819",
+      "row_number" : 15,
+      "height_real" : 20,
+      "clips" : [
+        {
+          "time_end" : 724.54666667000004,
+          "uuid" : "209870935766795776",
+          "time_start" : 713.09666666999999,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870935819031456",
+                "name" : "04-DGS",
+                "time" : 716.09666666999999
+              },
+              {
+                "time" : 719.60500000000002,
+                "category" : "JERSEY",
+                "uuid" : "209870936791469696",
+                "color" : "0.6133,0.0164,0.0164",
+                "name" : "13"
+              },
+              {
+                "uuid" : "209870937642522720",
+                "category" : "TANTOS",
+                "name" : "PENALTY GOAL",
+                "time" : 723.27166666999995,
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "name" : "CONVERTIDO",
+                "time" : 723.42999999999995,
+                "category" : "RESULTADO",
+                "uuid" : "209870937834193152",
+                "color" : "1.0,1.0,1.0"
+              }
+            ]
+          }
+        },
+        {
+          "time_start" : 874.76499999999999,
+          "time_end" : 889.125,
+          "uuid" : "209870976983861152",
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 877.76499999999999,
+                "uuid" : "209870977100913408",
+                "category" : "EQ NAME",
+                "name" : "07-YCR"
+              },
+              {
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 883.04499999999996,
+                "name" : "18",
+                "uuid" : "209870978466877824",
+                "category" : "JERSEY"
+              },
+              {
+                "name" : "PENALTY GOAL",
+                "color" : "0.6133,0.0164,0.3819",
+                "category" : "TANTOS",
+                "time" : 886.88499999999999,
+                "uuid" : "209870979322582048"
+              },
+              {
+                "color" : "1.0,1.0,1.0",
+                "time" : 888.64499999999998,
+                "name" : "ERRADO",
+                "uuid" : "209870979774472384",
+                "category" : "RESULTADO"
+              }
+            ]
+          }
+        }
+      ],
+      "height" : 20,
+      "row_name" : "PENALTY KICK",
+      "uuid_row" : "B7CE0AD6-0F3F-4575-A098-D6C6A1A3242E-42312-00000390F8A82388"
+    },
+    {
+      "row_number" : 16,
+      "row_name" : "YELLOW CARD",
+      "uuid_row" : "DE5263F2-BF38-44AE-B0B2-5ABB892C0427-42312-00000390FFA089F5",
+      "height" : 20,
+      "height_real" : 20,
+      "clips" : [
+        {
+          "uuid" : "209870940626135360",
+          "color" : "0.6133,0.0164,0.0164",
+          "time_end" : 742.72000000000003,
+          "time_start" : 731.75,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "uuid" : "209870940684659776",
+                "name" : "04-DGS",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 734.75
+              },
+              {
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 739.37333333000004,
+                "name" : "17",
+                "category" : "JERSEY",
+                "uuid" : "209870941782098016"
+              },
+              {
+                "uuid" : "209870942641677344",
+                "name" : "YELLOW CARD",
+                "color" : "0.6133,0.0164,0.0164",
+                "time" : 738.73500000000001,
+                "category" : "ACTION"
+              }
+            ]
+          }
+        },
+        {
+          "color" : "0.6133,0.0164,0.3819",
+          "uuid" : "209870944759924992",
+          "time_end" : 759.77833333000001,
+          "time_start" : 747.85166666999999,
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "uuid" : "209870944822734368",
+                "category" : "EQ NAME",
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "07-YCR",
+                "time" : 750.85166666999999
+              },
+              {
+                "uuid" : "209870946177763840",
+                "category" : "JERSEY",
+                "name" : "12",
+                "time" : 756.42999999999995,
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "category" : "ACTION",
+                "uuid" : "209870947024997536",
+                "time" : 755.79333333,
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "YELLOW CARD"
+              }
+            ]
+          }
+        }
+      ],
+      "color" : "0.6133,0.0164,0.3819"
+    },
+    {
+      "height" : 20,
+      "clips" : [
+        {
+          "uuid" : "209870948853678400",
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "name" : "04-DGS",
+                "uuid" : "209870948924942912",
+                "time" : 766.95166667000001,
+                "color" : "0.6133,0.0164,0.0164"
+              },
+              {
+                "time" : 771.73500000000001,
+                "uuid" : "209870950100411936",
+                "name" : "8",
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "JERSEY"
+              },
+              {
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.0164",
+                "uuid" : "209870950963047040",
+                "time" : 771.09666666999999,
+                "name" : "RED CARD"
+              }
+            ]
+          },
+          "time_start" : 763.95166667000001,
+          "time_end" : 775.08166667
+        },
+        {
+          "color" : "0.6133,0.0164,0.3819",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "category" : "EQ NAME",
+                "uuid" : "209870951908354528",
+                "time" : 778.42999999999995,
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "07-YCR"
+              },
+              {
+                "category" : "JERSEY",
+                "time" : 782.57500000000005,
+                "uuid" : "209870952981159136",
+                "name" : "10",
+                "color" : "0.6133,0.0164,0.3819"
+              },
+              {
+                "uuid" : "209870953803960960",
+                "name" : "RED CARD",
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.3819",
+                "time" : 781.93666667000002
+              }
+            ]
+          },
+          "time_start" : 775.42999999999995,
+          "uuid" : "209870951837039456",
+          "time_end" : 785.92333332999999
+        }
+      ],
+      "height_real" : 20,
+      "row_number" : 17,
+      "row_name" : "RED CARD",
+      "uuid_row" : "D1AEF244-581E-4041-B001-0835E3D2F374-42312-000003910B67FD7E",
+      "color" : "0.6133,0.0164,0.3819"
+    },
+    {
+      "uuid_row" : "6D2047D0-CFD3-4892-92CA-3E1DF6B2AEF9-42312-00000391166B951D",
+      "row_number" : 18,
+      "color" : "0.6133,0.0164,0.3819",
+      "height_real" : 20,
+      "height" : 20,
+      "clips" : [
+        {
+          "uuid" : "209870956583310176",
+          "time_end" : 798.60500000000002,
+          "time_start" : 790.60500000000002,
+          "color" : "0.6133,0.0164,0.0164",
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "name" : "04-DGS",
+                "uuid" : "209870956620307136",
+                "time" : 796.60500000000002,
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "EQ NAME"
+              },
+              {
+                "uuid" : "209870957533442304",
+                "time" : 796.60500000000002,
+                "color" : "0.6133,0.0164,0.0164",
+                "category" : "ACTION",
+                "name" : "FREE KICK"
+              }
+            ]
+          }
+        },
+        {
+          "qualifiers" : {
+            "qualifiers_array" : [
+              {
+                "time" : 808.88,
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "07-YCR",
+                "uuid" : "209870959778242016",
+                "category" : "EQ NAME"
+              },
+              {
+                "category" : "ACTION",
+                "color" : "0.6133,0.0164,0.3819",
+                "name" : "FREE KICK",
+                "uuid" : "209870960658508256",
+                "time" : 808.88
+              }
+            ]
+          },
+          "time_start" : 802.88,
+          "uuid" : "209870959698164736",
+          "color" : "0.6133,0.0164,0.3819",
+          "time_end" : 810.88
+        }
+      ],
+      "row_name" : "FREE KICK"
+    }
+  ],
+  "uuid_timeline" : "51658026-C31F-4E3B-86B5-FDBD12E0BAC5-42312-0000038BFC3E299B-[A]-209870043408634976"
+}
